@@ -12,6 +12,7 @@ Here is a sample input:
 3 2
 
 \+ cat
+
 \+ one
 
 
